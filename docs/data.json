@@ -1,18 +1,6 @@
 {
     "dev": [
-        {
-            "created": "2026-03-06 10:22:44.304697",
-            "lfortran_commit_sha": "44b7a61c2",
-            "url": "https://hydrolog.github.io/lfortran-wasm_builds/dev/44b7a61c2",
-            "version": "0.60.0-678-g44b7a61c2"
-        }
-    ],
+            ],
     "release": [
-        {
-            "created": "2026-02-07 06:54:05.233252",
-            "lfortran_commit_sha": "2f734343f",
-            "url": "https://hydrolog-lfortran.github.io/lfortran-wasm_builds/release/2f734343f",
-            "version": "0.60.0"
-        }
-    ]
+            ]
 }
